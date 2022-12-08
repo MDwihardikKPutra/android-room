@@ -3,7 +3,7 @@
 ## NIM  : 2041720256
 ## Kelas : TI - 3C
 ### Halaman Awal
-![Screenshot](ScreenShot/halamanAwal.png)
+![Screenshot](ScreenShot/halamanhome.png)
 
 ### Halaman Add Word
-![Screenshot](ScreenShot/halamanAddWord.png)
+![Screenshot](ScreenShot/halamantambah.png)
